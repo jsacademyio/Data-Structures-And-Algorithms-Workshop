@@ -19,5 +19,5 @@ Thanks for your interest in contributing! There are many ways to contribute to t
 
 ## Contributors
 
-Thanks to [all the contributors](https://github.com/keon/algorithms/graphs/contributors)
+Thanks to [all the contributors](https://github.com/jsacademyio/Data-Structures-And-Algorithms-Workshop/graphs/contributors)
 who helped in building the repo.
