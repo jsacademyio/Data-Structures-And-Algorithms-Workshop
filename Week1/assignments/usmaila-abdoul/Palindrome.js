@@ -5,11 +5,7 @@ function Palindrome(string) {
     let lowercaseString = string.toLowerCase();
     let newString = lowercaseString.split('').reverse().join('');
 
-    if (newString === lowercaseString) {
-        return true;
-    } else {
-        return false;
-    }
+    return newString === lowercaseString
 }
 
 console.log(Palindrome('Racecar'));
